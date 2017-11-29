@@ -1,0 +1,30 @@
+{
+  "Networks": {
+    "Facebook": {
+      "Group": {
+        "Cover": {
+          "Width": "1640px",
+          "Height": "856px",
+          "jpg": "Networks/Facebook/Group/cover.jpg",
+          "psd": "Networks/Facebook/Group/cover-source.psd",
+          "png": "Networks/Facebook/Group/cover-source.fw.png"
+        }
+      },
+      "Page": {},
+      "Event": {
+        "Cover": {
+          "Width": "1200px",
+          "Height": "675px",
+          "jpg": "Networks/Facebook/Event/cover.jpg",
+          "psd": "Networks/Facebook/Event/cover-source.psd",
+          "png": "Networks/Facebook/Event/cover-source.fw.png"
+        }
+      },
+      "Profile": {}
+    },
+    "Twitter": {},
+    "LinkedIn": {},
+    "Google+": {},
+    "YouTube": {}
+  }
+}
