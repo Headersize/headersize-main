@@ -25,10 +25,16 @@ The files in this repository are released under the Creative Commons Attribution
 See the templates in action, chat with like-minded people, and receive timely updates whenever image sizes change.
 
 [Facebook Group](https://www.facebook.com/groups/headersize/)
+
 [Facebook Page](https://www.facebook.com/headersize/)
+
 [Facebook Event](https://www.facebook.com/events/132222187441112/)
 
+
 [Twitter](http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=headersize)
+
 [Google+](https://plus.google.com/u/0/b/103267982743469542426/103267982743469542426/about)
+
 [LinkedIn](https://www.linkedin.com/company/headersize-)
+
 [YouTube](https://www.youtube.com/channel/UCQ3JCb-qlKWMeSjoSl_I3kA?sub_confirmation=1)
