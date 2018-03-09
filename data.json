@@ -10,7 +10,22 @@
           "png": "Networks/Facebook/Group/cover-source.fw.png"
         }
       },
-      "Page": {},
+      "Page": {
+        "Cover": {
+          "Width": "1640px",
+          "Height": "624px",
+          "jpg": "Networks/Facebook/Page/cover.jpg",
+          "psd": "Networks/Facebook/Page/cover-source.psd",
+          "png": "Networks/Facebook/Page/cover-source.fw.png"
+        },	  
+        "Logo": {
+          "Width": "450px",
+          "Height": "450px",
+          "jpg": "Networks/Facebook/Page/logo.jpg",
+          "psd": "Networks/Facebook/Page/logo-source.psd",
+          "png": "Networks/Facebook/Page/logo-source.fw.png"
+        }	  
+	  },
       "Event": {
         "Cover": {
           "Width": "1200px",
@@ -20,7 +35,15 @@
           "png": "Networks/Facebook/Event/cover-source.fw.png"
         }
       },
-      "Profile": {}
+      "Profile": {
+        "Cover": {
+          "Width": "850px",
+          "Height": "315px",
+          "jpg": "Networks/Facebook/Profile/cover.jpg",
+          "psd": "Networks/Facebook/Profile/cover-source.psd",
+          "png": "Networks/Facebook/Profile/cover-source.fw.png"
+        }	  
+	  }
     },
     "Twitter": {},
     "LinkedIn": {},
